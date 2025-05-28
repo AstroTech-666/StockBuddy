@@ -1,4 +1,4 @@
-# StockBuddy: Stock Market Prediction Using Machine Learning with Real-World Data
+# MoodCast: Forecasting Stock Market Moods with Real-Time Data
 This **Stock Market Prediction** web app uses **Machine Learning** and **Tweet Sentiment Analysis** to forecast stock prices. Built with a **Flask** backend and a **WordPress** front end, it predicts the next seven days' prices for any stock listed on **NASDAQ** or **NSE** based on user input. The predictions come from three powerful algorithms: **ARIMA, LSTM, and Linear Regression**. The app then blends these forecasts with real-time sentiment analysis of tweets to recommend whether the stock price is likely to go up or down. *(API keys are included in the code for easy setup.)*
 
 <!-- TABLE OF CONTENTS -->
