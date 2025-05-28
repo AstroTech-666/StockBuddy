@@ -1,5 +1,5 @@
-# Stock-Market-Prediction-Web-App-using-Machine-Learning
-**Stock Market Prediction** Web App based on **Machine Learning** and **Sentiment Analysis** of Tweets **(API keys included in code)**. The front end of the Web App is based on **Flask** and **Wordpress**. The App forecasts stock prices of the next seven days for any given stock under **NASDAQ** or **NSE** as input by the user. Predictions are made using three algorithms: **ARIMA, LSTM, Linear Regression**. The Web App combines the predicted prices of the next seven days with the **sentiment analysis of tweets** to give recommendation whether the price is going to rise or fall.
+# StockBuddy: Stock Market Prediction Using Machine Learning with Real-World Data
+This **Stock Market Prediction** web app uses **Machine Learning** and **Tweet Sentiment Analysis** to forecast stock prices. Built with a **Flask** backend and a **WordPress** front end, it predicts the next seven days' prices for any stock listed on **NASDAQ** or **NSE** based on user input. The predictions come from three powerful algorithms: **ARIMA, LSTM, and Linear Regression**. The app then blends these forecasts with real-time sentiment analysis of tweets to recommend whether the stock price is likely to go up or down. *(API keys are included in the code for easy setup.)*
 
 <!-- TABLE OF CONTENTS -->
 <details>
