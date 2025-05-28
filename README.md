@@ -17,10 +17,10 @@
 **Demo Video:** <br/>
 [<img src="https://github.com/kaushikjadhav01/Stock-Market-Prediction-Web-App-using-Machine-Learning-And-Sentiment-Analysis/blob/master/screenshots/banner.png">](https://www.youtube.com/watch?v=xnq7mBdJAJk "Stock-Market-Prediction-Web-App-using-Machine-Learning-And-Sentiment-Analysis")<br/><br/>
 **Screenshots:** <br/>
-<img src="https://github.com/kaushikjadhav01/Stock-Market-Prediction-Web-App-using-Machine-Learning-And-Sentiment-Analysis/blob/master/screenshots/banner.png">
-<img src="https://github.com/kaushikjadhav01/Stock-Market-Prediction-Web-App-using-Machine-Learning-And-Sentiment-Analysis/blob/master/screenshots/banner2.PNG">
-<img src="https://github.com/kaushikjadhav01/Stock-Market-Prediction-Web-App-using-Machine-Learning-And-Sentiment-Analysis/blob/master/screenshots/11-resuts.png" width="750">
-<img src="https://github.com/kaushikjadhav01/Stock-Market-Prediction-Web-App-using-Machine-Learning-And-Sentiment-Analysis/blob/master/screenshots/wp-admin.PNG" width="750">
+<img src="https://github.com/AstroTech-666/StockBuddy/tree/master/screenshots/banner.png">
+<img src="https://github.com/AstroTech-666/StockBuddy/tree/master/screenshots/banner2.PNG">
+<img src="https://github.com/AstroTech-666/StockBuddy/tree/master/screenshots/11-resuts.png" width="750">
+<img src="https://github.com/AstroTech-666/StockBuddy/tree/master/screenshots/wp-admin.PNG" width="750">
 
 **Admin Creds:** <br/>
 Username: admin <br/>
@@ -81,4 +81,4 @@ Admin can:<br/>
 5. Run ```python main.py``` to start server.
 7. Go to ```localhost/wordpress``` to access the app.
 
-Find more screenshots in the <b>screenshots folder</b> Or <a href="https://github.com/kaushikjadhav01/Stock-Market-Prediction-Web-App-using-Machine-Learning-And-Sentiment-Analysis/tree/master/screenshots">click here</a>
+Find more screenshots in the <b>screenshots folder</b> Or <a href="https://github.com/AstroTech-666/StockBuddy/tree/master/screenshots">click here</a>
