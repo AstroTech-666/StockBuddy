@@ -15,9 +15,8 @@ This **Stock Market Prediction** web app uses **Machine Learning** and **Tweet S
 
 ## System Description and Functions
 **Demo Video:** <br/>
-[<img src="https://github.com/kaushikjadhav01/Stock-Market-Prediction-Web-App-using-Machine-Learning-And-Sentiment-Analysis/blob/master/screenshots/banner.png">](https://www.youtube.com/watch?v=xnq7mBdJAJk "Stock-Market-Prediction-Web-App-using-Machine-Learning-And-Sentiment-Analysis")<br/><br/>
+[<img src="https://github.com/AstroTech-666/StockBuddy/blob/master/screenshots/banner.png">](https://youtu.be/ItSsVQfba94 "Stock-Market-Prediction-Web-App-using-Machine-Learning-And-Sentiment-Analysis")<br/><br/>
 **Screenshots:** <br/>
-<img src="https://github.com/AstroTech-666/StockBuddy/blob/master/screenshots/banner.png">
 <img src="https://github.com/AstroTech-666/StockBuddy/blob/master/screenshots/banner2.PNG">
 <img src="https://github.com/AstroTech-666/StockBuddy/blob/master/screenshots/11-resuts.png" width="750">
 <img src="https://github.com/AstroTech-666/StockBuddy/blob/master/screenshots/9-admin-panel.png" width="750">
