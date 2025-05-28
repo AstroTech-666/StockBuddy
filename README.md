@@ -20,7 +20,7 @@ This **Stock Market Prediction** web app uses **Machine Learning** and **Tweet S
 <img src="https://github.com/AstroTech-666/StockBuddy/blob/master/screenshots/banner.png">
 <img src="https://github.com/AstroTech-666/StockBuddy/blob/master/screenshots/banner2.PNG">
 <img src="https://github.com/AstroTech-666/StockBuddy/blob/master/screenshots/11-resuts.png" width="750">
-<img src="https://github.com/AstroTech-666/StockBuddy/blob/master/screenshots/wp-admin.PNG" width="750">
+<img src="https://github.com/AstroTech-666/StockBuddy/blob/master/screenshots/9-admin-panel.png" width="750">
 
 **Admin Creds:** <br/>
 Username: admin <br/>
